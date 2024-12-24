@@ -12,7 +12,6 @@ public class AudiTest {
 		
 		driver.get("https://www.audi.in/en/");
 		Reporter.log("AudiTest executed",true);
-		Reporter.log("Edited in GitHub",true);
-		
+		Reporter.log("Edited in GitHub",true);	
 	}
 }
